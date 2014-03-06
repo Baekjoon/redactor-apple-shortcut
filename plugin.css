@@ -1,0 +1,21 @@
+a.redactor-btn-image {
+    font-family: Arial, Helvetica, Verdana, Tahoma, sans-serif;
+}
+.re-apple-command:before{
+    content: "⌘";
+}
+.re-apple-control:before {
+    content: "⌃";
+}
+.re-apple-option:before {
+    content: "v";
+}
+.re-apple-shift:before {
+    content: "⇧";
+}
+.re-apple-caps-lock:before {
+    content: "⇪";
+}
+.re-apple-eject:before {
+    content: "⏏";
+}
