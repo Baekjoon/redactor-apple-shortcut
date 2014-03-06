@@ -1,7 +1,7 @@
 # Redactor Apple Shortcut Plugin
 
 
-Redactor Plugin for Apple Shortcut
+[Imperavi's Redactor](http://imperavi.com/redactor) Plugin for Apple Shortcut
 
 
 ## Sample
